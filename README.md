@@ -27,8 +27,8 @@ This project provides a simple Docker-based setup to run a full WordPress websit
 1. **Clone the repository**
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/aliakbar-zohour/wordpress-one-line.git
+cd wordpress-one-line
 ```
 
 2. **Start the services**
